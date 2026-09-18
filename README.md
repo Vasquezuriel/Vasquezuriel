@@ -1,4 +1,4 @@
-## Hi there 👋 Soy Uriel
+## Soy Uriel
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Analista+en+Sistemas;En+transici%C3%B3n+hacia+Cloud+%26+AI+Engineering;Aprendiendo+Python+%2B+AWS+%F0%9F%9A%80" alt="Typing SVG" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🚀 En este momento
+### Actualmente
 
 - Terminando mis certificaciones de AWS (CLF-C02 + AIF-C01)
 - Armando mi portfolio con proyectos propios
@@ -40,4 +40,4 @@
 
 ---
 
-<p align="center"><i>🌱 Perfil en construcción — pronto vas a ver proyectos acá</i></p>
+<p align="center"><i> Perfil en construcción — pronto vas a ver mis proyectos acá</i></p>
