@@ -1,7 +1,7 @@
 ## Soy Uriel
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Analista+en+Sistemas;En+transici%C3%B3n+hacia+Cloud+%26+AI+Engineering;Aprendiendo+Python+%2B+AWS+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Analista+en+Sistemas;En+transici%C3%B3n+hacia+Cloud+%26+AI+Engineering;Aprendiendo+Python+%2B+AWS" alt="Typing SVG" />
 </p>
 
 <p align="center">
