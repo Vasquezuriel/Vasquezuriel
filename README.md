@@ -12,16 +12,16 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
-- 🎓 Estudiante de 2° año de **Analista en Sistemas de Información** (Instituto Cervantes) — marzo 2025 → noviembre 2027
-- 🔄 En transición activa desde un rol operativo hacia **desarrollo de software e ingeniería de IA**
-- ☁️ Formándome en **AWS**: AWS Certified Cloud Practitioner (CLF-C02) y AWS Certified AI Practitioner (AIF-C01) — en curso, finalización prevista diciembre 2026
-- 🐍 Aprendiendo **Python** con el curso "Python TOTAL con IA" (Udemy)
-- 🎯 Meta a largo plazo: especializarme como **Generative AI Developer**
+- Estudiante de 2° año de **Analista en Sistemas de Información** (Instituto Cervantes) — marzo 2025 → noviembre 2027
+- En transición activa desde un rol operativo hacia **desarrollo de software e ingeniería de IA**
+- Formándome en **AWS**: AWS Certified Cloud Practitioner (CLF-C02) y AWS Certified AI Practitioner (AIF-C01) — en curso, finalización prevista diciembre 2026
+- Aprendiendo **Python** con el curso "Python TOTAL con IA" (Udemy)
+- Meta a largo plazo: especializarme como **Generative AI Developer**
 - 📍 Córdoba, Argentina
 
-### 🛠️ Stack y herramientas
+### Stack y herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
